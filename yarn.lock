@@ -1483,10 +1483,10 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@nunogois/proxy-client-react-native@^0.0.26":
-  version "0.0.26"
-  resolved "https://registry.yarnpkg.com/@nunogois/proxy-client-react-native/-/proxy-client-react-native-0.0.26.tgz#3f2d6d3a4ed7af13817cb8c01fda64703ecd3c70"
-  integrity sha512-S+Temw23rLIoFnudJiom/+sks5FfF34aGULWzGuVOXqIPdzItZQ3CTbWYRtFKhGKRAqHlDQg63q0yrqduj87TQ==
+"@nunogois/proxy-client-react-native@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@nunogois/proxy-client-react-native/-/proxy-client-react-native-0.0.28.tgz#5c65492f21ecfdbdcd7abc27129f7dbd5f4fa48a"
+  integrity sha512-tNfmcQ7cBr61jKSoYJ8QAr2u1BcsWP2VLI5ygmIW7U+MpDS6O1TjTwZIG9cVgJeCJsDR2yuN3zxWaXShSFplfw==
   dependencies:
     "@react-native-async-storage/async-storage" "^1.17.6"
     react-native-get-random-values "^1.8.0"
